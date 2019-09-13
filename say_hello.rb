@@ -1,1 +1,1 @@
-say_hello "ruby"  
+say_hello 
